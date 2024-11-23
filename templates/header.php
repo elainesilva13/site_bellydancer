@@ -24,6 +24,8 @@
     <meta property="og:url" content="https://elainebellydancer.infinityfreeapp.com/">
     <meta property="og:type" content="website">
     <link rel="canonical" href="https://elainebellydancer.infinityfreeapp.com/">
+
+    <meta name="google-site-verification" content="ldrI7sJco6-AzsP62MLaxK8QBWQIPFLs8fzL-IVkoMw" />
 </head>
 
 <body>
